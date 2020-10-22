@@ -27,6 +27,7 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <button>ログイン</button>
   </div>
 </template>
 
@@ -53,6 +54,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #85b942;
 }
 </style>
